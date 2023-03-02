@@ -6,7 +6,7 @@ user = {
     "id": 123456789,
     "username": "maruSh",
     "firstName": "maru",
-    "lastName": "Shun",
+    "lastName": "ShuB",
     "email": "sdf@fgfg.ru",
     "password": "123457899",
     "phone": "1234667887987",
